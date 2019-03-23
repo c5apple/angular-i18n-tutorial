@@ -1,0 +1,4 @@
+{
+  "HELLO": "hello {{value}}",
+  "FLAG": "/assets/img/flag_en.png"
+}
